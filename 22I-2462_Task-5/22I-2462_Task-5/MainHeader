@@ -1,0 +1,8 @@
+"#pragma once
+
+""#include <iostream>
+""#include """ main.cpp """
+""int main() {
+"FileContent"
+return 0;
+}"

@@ -1,0 +1,3 @@
+﻿  main2.cpp
+D:\University\Semester 2\Data Structures\Lab\Lab Tasks\22i-2462_Lab-3_SE-B\22i-2462_Task-3_Q2\22i-2462_Task-3_Q2\main2.cpp(9,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  22i-2462_Task-3_Q2.vcxproj -> D:\University\Semester 2\Data Structures\Lab\Lab Tasks\22i-2462_Lab-3_SE-B\22i-2462_Task-3_Q2\x64\Debug\22i-2462_Task-3_Q2.exe
